@@ -2,7 +2,7 @@
 
 
 ## Listar os repositórios da sua API:
-    - [] Criar uma lista de todos os repositórios que estão cadastrados na sua API
+    - [x] Criar uma lista de todos os repositórios que estão cadastrados na sua API
     - [] com os campos title, techs e número de curtidas seguindo o padrão ${repository.likes} curtidas, apenas alterando o número para ser dinâmico.
 
 ## Curtir um repositório listado da API:
